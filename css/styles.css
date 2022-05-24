@@ -746,6 +746,7 @@ img {
 }
 
 .modal-title {
+    display: block;
     margin-top: 0;
     margin-bottom: 12px;
     margin-left: auto;
